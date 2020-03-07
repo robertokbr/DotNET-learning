@@ -1,0 +1,11 @@
+C:\Users\rober\DotNET_learning\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.exe
+C:\Users\rober\DotNET_learning\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.deps.json
+C:\Users\rober\DotNET_learning\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.json
+C:\Users\rober\DotNET_learning\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.dev.json
+C:\Users\rober\DotNET_learning\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\rober\DotNET_learning\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.pdb
+C:\Users\rober\DotNET_learning\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.csprojAssemblyReference.cache
+C:\Users\rober\DotNET_learning\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\rober\DotNET_learning\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\rober\DotNET_learning\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\rober\DotNET_learning\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.pdb
