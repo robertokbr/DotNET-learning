@@ -1,0 +1,11 @@
+C:\Users\rober\DotNET_learning\list-tutorial\bin\Debug\netcoreapp3.1\List-tutorial.exe
+C:\Users\rober\DotNET_learning\list-tutorial\bin\Debug\netcoreapp3.1\List-tutorial.deps.json
+C:\Users\rober\DotNET_learning\list-tutorial\bin\Debug\netcoreapp3.1\List-tutorial.runtimeconfig.json
+C:\Users\rober\DotNET_learning\list-tutorial\bin\Debug\netcoreapp3.1\List-tutorial.runtimeconfig.dev.json
+C:\Users\rober\DotNET_learning\list-tutorial\bin\Debug\netcoreapp3.1\List-tutorial.dll
+C:\Users\rober\DotNET_learning\list-tutorial\bin\Debug\netcoreapp3.1\List-tutorial.pdb
+C:\Users\rober\DotNET_learning\list-tutorial\obj\Debug\netcoreapp3.1\List-tutorial.csprojAssemblyReference.cache
+C:\Users\rober\DotNET_learning\list-tutorial\obj\Debug\netcoreapp3.1\List-tutorial.AssemblyInfoInputs.cache
+C:\Users\rober\DotNET_learning\list-tutorial\obj\Debug\netcoreapp3.1\List-tutorial.AssemblyInfo.cs
+C:\Users\rober\DotNET_learning\list-tutorial\obj\Debug\netcoreapp3.1\List-tutorial.dll
+C:\Users\rober\DotNET_learning\list-tutorial\obj\Debug\netcoreapp3.1\List-tutorial.pdb
