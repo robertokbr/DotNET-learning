@@ -5,3 +5,5 @@
 - [x] Manipulate integral and floating point numbers in C#: `numbers-quickstart`.
 - [x] Branch and loop statements: `branches-tutorial`.
 - [x] Manage data collections using the generic list type: `list-tutorial`.
+- [x] Explore object oriented programming with classes and objects: `Classes`.
+
